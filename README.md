@@ -1,1 +1,1 @@
-# alx-frontend-javascript
+# This is the repo for my ALX  frontend journey tasks
